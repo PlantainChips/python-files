@@ -1,14 +1,14 @@
-### Respository Content
+###Respository Content
 
-This respository holds random python files that i've created since I started learning Python.
+This respository holds random python files that made in my journey to mastering Python.
 
-### /uFiles Used/u
+###Files Used
 
-#.py:
+**.py:**
 useful_functions.py, open_text.py, match_flower_name.py, first_script.py, demo.py
 
-#.txt Files:
+**.txt:**
 some_textfile.txt, flowers.txt
 
-#.rtf:
+**.rtf:**
 python_online_resources.rtf
