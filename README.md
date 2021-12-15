@@ -1,8 +1,8 @@
-###Respository Content
+### Respository Content
 
 This respository holds random python files that made in my journey to mastering Python.
 
-###Files Used
+### Files Used
 
 **.py:**
 useful_functions.py, open_text.py, match_flower_name.py, first_script.py, demo.py
